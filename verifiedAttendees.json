@@ -1,0 +1,36 @@
+[ {
+  "name" : "Jafar",
+  "favoriteSong" : "Prince Ali (REMIX!!!)",
+  "goal" : "To become the most powerful sorcerer in the universe.",
+  "alignment" : "Evil"
+}, {
+  "name" : "Ursula",
+  "favoriteSong" : "Poor Unfortunate Souls",
+  "goal" : "To overthrow king Triton and rule the sea.",
+  "alignment" : "Evil"
+}, {
+  "name" : "Scar",
+  "favoriteSong" : "Be Prepared",
+  "goal" : "To become the king.",
+  "alignment" : "Evil"
+}, {
+  "name" : "Gaston",
+  "favoriteSong" : "Gaston",
+  "goal" : "To start eating 6 dozen eggs every morning.",
+  "alignment" : "Evil"
+}, {
+  "name" : "Monseigneur Claude Frollo",
+  "favoriteSong" : "Hellfire",
+  "goal" : "To purge the world of vice and sin.",
+  "alignment" : "Evil"
+}, {
+  "name" : "Cruella De Vil",
+  "favoriteSong" : "Cruella De Vil",
+  "goal" : "To make a spotted fur coat.",
+  "alignment" : "Evil"
+}, {
+  "name" : "Tamatoa",
+  "favoriteSong" : "Shiny",
+  "goal" : "Collect all the shiny and valuable things in the world.",
+  "alignment" : "Evil"
+} ]
